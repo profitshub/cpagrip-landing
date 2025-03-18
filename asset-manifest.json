@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.810e8c71.js",
-    "static/js/453.5dc1d7c3.chunk.js": "/static/js/453.5dc1d7c3.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.810e8c71.js.map": "/static/js/main.810e8c71.js.map",
-    "453.5dc1d7c3.chunk.js.map": "/static/js/453.5dc1d7c3.chunk.js.map"
+    "main.css": "https://profitshub.github.io/cpagrip-landing/static/css/main.f855e6bc.css",
+    "main.js": "https://profitshub.github.io/cpagrip-landing/static/js/main.91304f9d.js",
+    "static/js/453.5dc1d7c3.chunk.js": "https://profitshub.github.io/cpagrip-landing/static/js/453.5dc1d7c3.chunk.js",
+    "index.html": "https://profitshub.github.io/cpagrip-landing/index.html",
+    "main.f855e6bc.css.map": "https://profitshub.github.io/cpagrip-landing/static/css/main.f855e6bc.css.map",
+    "main.91304f9d.js.map": "https://profitshub.github.io/cpagrip-landing/static/js/main.91304f9d.js.map",
+    "453.5dc1d7c3.chunk.js.map": "https://profitshub.github.io/cpagrip-landing/static/js/453.5dc1d7c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.810e8c71.js"
+    "static/js/main.91304f9d.js"
   ]
 }
